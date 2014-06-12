@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <node name="hector_door_handle_detector" pkg="hector_door_handle_detector" type="hector_door_handle_detector" output="screen">
+      
+ </node>
+
+ 
+
+
+</launch>
